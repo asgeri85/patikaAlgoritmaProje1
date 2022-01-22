@@ -46,3 +46,13 @@ Average case
 [8,11,12,16,21,22]  
 
 o(nLogn)
+
+
+## Proje 3 (Binary Search Tree Projesi)
+
+[7, 5, 1, 8, 3, 6, 0, 9, 4, 2]
+
+1. root 6 dır. rootun solunda 4 bulunur.rootun sağında 8 bulunur
+2. roottan sol tarafta 4 var. 4ün solunda 3 var küçük olduğu için.sağında ise 5 var
+3. 4 ün solunda 3 var. 3 solunda 2,2nin solunda 1,1in solunda ise 0 var
+4. 6 dan sağda 8 var.8 in solunda 7,sağında ise 9 var  
