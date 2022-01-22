@@ -1,6 +1,6 @@
 # patikaAlgoritmaProjeleri
 
-Proje 1 (Insertion Sort Projesi)
+## Proje 1 (Insertion Sort Projesi)
 [22,27,16,2,18,6] N
 
 1.Aşama
@@ -29,7 +29,7 @@ Average case
 [2,3,4,5,6,9,8,15,7]
 
 
-Proje 2 (Merge Sort Projesi)
+## Proje 2 (Merge Sort Projesi)
 
 [16,21,11,8,12,22] 
 
